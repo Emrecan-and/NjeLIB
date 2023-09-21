@@ -14,7 +14,14 @@ For Admin
 
 Librarian will login to application with admin account.Then librarian will see admin interface(not user interface).Application greetings librarian according to time period. Admin can change to capacity by entering value of capacity. Librarian must approve enterence and exit of students who got reservation by scanning QR code. At the end of day if someone forgot to scan his/her reservation,librarian can reset manually by clilcking reset button.
 
-![image](https://github.com/Emrecan-and/NjeLIB/assets/110590889/71ed3d52-e8ff-4993-a6d4-f10579fc6f4c) ![image](https://github.com/Emrecan-and/NjeLIB/assets/110590889/2ed1e00a-78bf-45c2-b684-adb53bce94fa) ![image](https://github.com/Emrecan-and/NjeLIB/assets/110590889/861913f4-769f-4dd0-9ea6-aa8fb747d3ed) ![image](https://github.com/Emrecan-and/NjeLIB/assets/110590889/78baf987-23f9-4a87-9488-a0af2562fd02)
+![foto1](https://github.com/Emrecan-and/NjeLIB/assets/110590889/1f2ba493-564f-4374-bc2d-5db681aab573) ![foto2](https://github.com/Emrecan-and/NjeLIB/assets/110590889/bc87cfde-1e14-41b3-87f1-c839a5afe5c5) ![foto3](https://github.com/Emrecan-and/NjeLIB/assets/110590889/1a8bdf59-2c96-42f4-9fc5-9cd337d87854)
+![foto4](https://github.com/Emrecan-and/NjeLIB/assets/110590889/5d675b61-eeed-4bc5-8670-952415edbb3b)
+
+
+
+
+
+
 
 
 
