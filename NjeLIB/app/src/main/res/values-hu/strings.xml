@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">NjeLIB</string>
+    <string name="user_name" translatable="false">Felhasználónév</string>
+    <string name="password" translatable="false">Jelszó</string>
+    <string name="register" translatable="false">Regisztrálás</string>
+    <string name="signup" translatable="false">Regisztráció</string>
+    <string name="login_explanation" translatable="false">Ha már regisztrált, kattintson ide</string>
+    <string name="login" translatable="false">Bejelentkezés</string>
+    <string name="signup_explanation" translatable="false">Ha még nem regisztrált, kattintson ide</string>
+    <string name="logout" translatable="false">Kijelentkezés</string>
+    <string-array name="greetings">
+        <item>Jó reggelt</item>
+        <item>Jó napot</item>
+        <item>Jó estét</item>
+        <item>Jó éjszakát</item>
+    </string-array>
+    <string name="reservation" translatable="false">Foglaljon időpontot</string>
+    <string name="capacity" translatable="false">Kapacitás</string>
+    <string name="currentuser" translatable="false">Emberek száma</string> //consultation needed for what do you mean?
+    <string name="capacityHint" translatable="false">Kapacitás változtatása</string>
+    <string name="change" translatable="false">Váltás</string>
+    <string name="scan" translatable="false">Foglalás szkennelése</string>
+    <string name="reset" translatable="false">Aktuális létszám alapértelmezettre állítása</string>
+    <string name="book" translatable="false">Ellenőrizze a foglalásokat</string>
+    <string name="alert" translatable="false">!Ezt a QR kódot kell szkennelni a ki/belépéshez a könyvtárban!</string>
+</resources>

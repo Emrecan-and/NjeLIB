@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">NjeLIB</string>
+    <string name="user_name" translatable="false">User Name</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="register" translatable="false">REGISTER</string>
+    <string name="signup" translatable="false">SIGN UP</string>
+    <string name="login_explanation" translatable="false">If you already registered,click here</string>
+    <string name="login" translatable="false">Log In</string>
+    <string name="signup_explanation" translatable="false">If you did not register yet,click here</string>
+    <string name="logout" translatable="false">Log Out</string>
+    <string-array name="greetings">
+        <item>Good Morning</item>
+        <item>Good Afternoon</item>
+        <item>Good Evening</item>
+        <item>Good Night</item>
+    </string-array>
+    <string name="reservation" translatable="false">Book your place</string>
+    <string name="capacity" translatable="false">Capacity</string>
+    <string name="currentuser" translatable="false">Number Of People</string>
+    <string name="capacityHint" translatable="false">Change to Capacity</string>
+    <string name="change" translatable="false">Change</string>
+    <string name="scan" translatable="false">SCAN TO RESERVATION</string>
+    <string name="reset" translatable="false">Reset the Current Number of People</string>
+    <string name="book" translatable="false">Check to reservations</string>
+    <string name="alert" translatable="false">!YOU MUST SCAN THIS QR TO LIBRARIAN IN ENTRANCE AND EXIT!</string>
+</resources>
